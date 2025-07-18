@@ -1,0 +1,10 @@
+data/
+*.csv
+*.xlsx
+*.json
+
+.ipynb_checkpoints/
+
+.env
+__pycache__/
+*.pyc
